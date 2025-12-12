@@ -37,17 +37,6 @@ Hệ thống phù hợp triển khai ngoài nông trại, nơi **không có Inte
 Luồng xử lý giống OpenAI Function Calling, nhưng chạy **100% offline**:
 
 
-FarmPest-Vision/
-│
-├── app.py                      # Giao diện Streamlit
-├── pest_model.py               # Load CNN + predict_pest()
-├── fc_agent.py                 # Function calling offline
-├── llm_client.py               # Kết nối LM Studio API
-├── pest_classification_model.keras
-│
-├── README.md
-└── requirements.txt
-
 👨‍💻 Tác giả
 Huynh Tan Loc
 Vietnam
